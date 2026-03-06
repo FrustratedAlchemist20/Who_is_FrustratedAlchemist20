@@ -1,17 +1,9 @@
 # Who_is_FrustratedAlchemist20
 
-<h1 align="center">Hello world! I'm Sergio Pérez Tabero 👋</h1>
-<h3 align="center">Computational Chemist | Scientific Programmer | PhD Researcher</h3>
+![header](https://capsule-render.vercel.app/api?type=blur&height=240&text=%E2%9A%97%EF%B8%8F%20Sergio%20P%C3%A9rez%20Tabero&fontSize=40&fontColor=000000&desc=Computational%20Chemist%20%7C%20Data%20Scientist%20%7C%20%F0%9F%92%BB&descAlignY=63&descColor=000000&stroke=0077B6&strokeWidth=1.8&color=0:7B2CBF,100:00D4FF)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=Theoretical+Chemistry+%7C+Computational+Modelling;Quantum+Chemistry+and+Molecular+Dynamics;Scientific+Python+Workflows+and+HPC+Automation;Data-driven+analysis+for+chemical+reactivity" alt="Typing SVG" />
-</p>
-
-### Computational Chemist | Theoretical Chemistry PhD Candidate | Scientific Programmer
 
 I am a PhD researcher in **Theoretical Chemistry and Computational Modelling** with a strong background in **quantum chemistry**, **molecular dynamics**, **scientific automation**, and **data-driven chemical analysis**. My work focuses on understanding **fragmentation pathways, reactivity, and degradation mechanisms** of chemically complex systems through computational methods.
-
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Sergio%20P%C3%A9rez%20Tabero&fontSize=40&fontAlignY=40&desc=Computational%20Chemist%20%7C%20Scientific%20Programmer%20%7C%20PhD%20Researcher&descAlignY=60)
 
 🔬 I work at the intersection of:
 
