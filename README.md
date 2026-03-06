@@ -1,9 +1,6 @@
 # Who_is_FrustratedAlchemist20
-Some info about me
------------------------
-# Hello world! I'm Sergio Pérez Tabero 👋
 
-<h1 align="center">Hi, I'm Sergio Pérez Tabero 👋</h1>
+<h1 align="center">Hello world! I'm Sergio Pérez Tabero 👋</h1>
 <h3 align="center">Computational Chemist | Scientific Programmer | PhD Researcher</h3>
 
 <p align="center">
@@ -13,6 +10,8 @@ Some info about me
 ### Computational Chemist | Theoretical Chemistry PhD Candidate | Scientific Programmer
 
 I am a PhD researcher in **Theoretical Chemistry and Computational Modelling** with a strong background in **quantum chemistry**, **molecular dynamics**, **scientific automation**, and **data-driven chemical analysis**. My work focuses on understanding **fragmentation pathways, reactivity, and degradation mechanisms** of chemically complex systems through computational methods.
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Sergio%20P%C3%A9rez%20Tabero&fontSize=40&fontAlignY=40&desc=Computational%20Chemist%20%7C%20Scientific%20Programmer%20%7C%20PhD%20Researcher&descAlignY=60)
 
 🔬 I work at the intersection of:
 
