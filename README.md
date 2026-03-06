@@ -3,12 +3,12 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&height=240&text=%E2%9A%97%EF%B8%8F%20Sergio%20P%C3%A9rez%20Tabero&fontSize=40&fontColor=000000&desc=Computational%20Chemist%20%7C%20Data%20Scientist%20%7C%20%F0%9F%92%BB&descAlignY=63&descColor=000000&stroke=0077B6&strokeWidth=1.8&color=0:7B2CBF,100:00D4FF)
 
 
-I am a PhD researcher in **Theoretical Chemistry and Computational Modelling** with a strong background in **quantum chemistry**, **molecular dynamics**, **scientific automation**, and **data-driven chemical analysis**. My work focuses on understanding **fragmentation pathways, reactivity, and degradation mechanisms** of chemically complex systems through computational methods.
+Hello World!! As a PhD researcher in **Theoretical Chemistry and Computational Modelling** with a strong background in **quantum chemistry**, **molecular dynamics**, **scientific automation**, and **data-driven chemical analysis** my work focuses on understanding **fragmentation pathways, reactivity, and degradation mechanisms** of chemically complex systems through computational methods.
 
 🔬 I work at the intersection of:
 
-- Quantum chemistry
-- Molecular dynamics
+- Quantum Chemistry
+- Quantum/Classical Molecular Dynamics
 - Reaction analysis
 - Scientific Python workflows
 - Data analysis and visualization
@@ -20,11 +20,11 @@ I am a PhD researcher in **Theoretical Chemistry and Computational Modelling** w
 ## About me
 
 - 🎓 PhD candidate in **Theoretical Chemistry and Computational Modelling**
-- 🧪 Research focused on **fragmentation mechanisms of agrochemical triazoles**
+- 🧪 Research focused on **Fragmentation mechanisms, MS/MS and prediction of agrochemical pesticides properties**
 - 💻 Building tools in **Python**, **Bash**, and **LaTeX** for computational chemistry workflows
 - ⚙️ Experienced with **HPC environments**, **Slurm**, **automated pipelines**, and **large-scale data processing**
-- 📊 Interested in **machine learning for chemistry**, **predictive modeling**, and **scientific software development**
-- 🌍 Open to opportunities in **computational chemistry**, **scientific computing**, **cheminformatics**, and **R&D**
+- 📊 Interested in **ML and DL for chemistry**, **Predictive Modeling**, and **Scientific Software Development**
+- 🌍 Open to opportunities in **Computational Chemistry**, **Scientific Computing**, **Cheminformatics**, and **R&D**
 
 ---
 
@@ -53,6 +53,7 @@ I am a PhD researcher in **Theoretical Chemistry and Computational Modelling** w
 ![RDKit](https://img.shields.io/badge/RDKit-Cheminformatics-blue?style=for-the-badge)
 ![HPC](https://img.shields.io/badge/HPC-Scientific%20Computing-darkgreen?style=for-the-badge)
 ![Slurm](https://img.shields.io/badge/Slurm-Workload%20Manager-4E73B8?style=for-the-badge)
+![SQM](https://img.shields.io/badge/Quantum%20Chemistry-SQM-orange?style=for-the-badge)
 ![DFT](https://img.shields.io/badge/Quantum%20Chemistry-DFT-purple?style=for-the-badge)
 ![Molecular Dynamics](https://img.shields.io/badge/Molecular%20Dynamics-Simulations-orange?style=for-the-badge)
 
@@ -65,6 +66,7 @@ Here are some areas I work on in my repositories:
 - 🧬 **Computational chemistry workflows** for fragmentation and reactivity studies
 - 📈 **Kinetic and RRKM analysis pipelines**
 - 🧪 **Reaction trajectory processing and visualization**
+- 💻 **NoSQL databases - Mongodb | SQL databases** 
 - 🗂️ **Automation scripts** for HPC job preparation and execution
 - 📊 **Scientific plotting and reporting tools**
 - 🤖 Explorations in **machine learning for molecular systems**
@@ -80,7 +82,7 @@ Here are some areas I work on in my repositories:
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio%20P%C3%A9rez%20Tabero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](AQUI_TU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio%20P%C3%A9rez%20Tabero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-p%C3%A9rez-tabero-37945a1a6/)
 [![GitHub](https://img.shields.io/badge/GitHub-FrustratedAlchemist20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FrustratedAlchemist20)
 
 ---
@@ -89,10 +91,4 @@ Here are some areas I work on in my repositories:
 
 [![MassBank](https://img.shields.io/badge/MassBank-MS%20Spectra%20Database-green?style=for-the-badge)](https://massbank.eu/MassBank/)
 
----
 
-## Quote
-
-> “Chemistry becomes truly powerful when theory, computation, and data work together.”
-
----
